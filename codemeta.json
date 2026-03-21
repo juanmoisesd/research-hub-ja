@@ -1,0 +1,51 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "NCRA Open Science Ecosystem — research-hub-ja",
+  "description": "Multilingual open science hub with 33 modules for accessing, visualizing, and citing 45+ open-access research datasets on neuroeconomics and public health in Latin America.",
+  "version": "1.0.0",
+  "datePublished": "2026-03-21",
+  "dateModified": "2026-03-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/research-hub-ja",
+  "url": "https://juanmoisesd.github.io/research-hub-ja/",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      }
+    }
+  ],
+  "programmingLanguage": [
+    "Python",
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "runtimePlatform": "GitHub Pages",
+  "operatingSystem": "Any",
+  "keywords": [
+    "open science",
+    "neuroeconomics",
+    "Latin America",
+    "NCRA",
+    "open data",
+    "demographics",
+    "mental health",
+    "multilingual"
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  },
+  "relatedLink": [
+    "https://doi.org/10.5281/zenodo.18984813",
+    "https://orcid.org/0000-0002-8401-8018",
+    "https://juanmoisesdelaserna.es"
+  ]
+}
