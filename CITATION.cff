@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+type: software
+title: "NCRA Open Science Ecosystem — research-hub-ja"
+abstract: >
+  Multilingual open science hub providing interactive access to 45+
+  open-access datasets on neuroeconomics, public health, demographics,
+  and behavioral economics for Latin America and Ibero-America.
+  Includes 33 modules: calculator, timeline, comparator, API explorer,
+  semantic search, projections, ethics, methodology, and more.
+  Available in 20 languages.
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+    email: "juanmoises.delaserna@unir.net"
+version: "1.0.0"
+date-released: "2026-03-21"
+license: CC-BY-4.0
+repository-code: "https://github.com/juanmoisesd/research-hub-ja"
+url: "https://juanmoisesd.github.io/research-hub-ja/"
+# doi: pending Zenodo registration
+keywords:
+  - open science
+  - neuroeconomics
+  - Latin America
+  - NCRA
+  - open data
+  - demographics
+  - mental health
+  - aging
+  - multilingual
+  - research hub
+references:
+  - type: dataset
+    title: "NCRA LatAm Dataset v1.0"
+    authors:
+      - family-names: "de la Serna Tuya"
+        given-names: "Juan Moisés"
+    doi: "10.5281/zenodo.18984813"
+    url: "https://doi.org/10.5281/zenodo.18984813"
