@@ -1,19 +1,19 @@
 cff-version: 1.2.0
-message: "このデータセットを使用する場合は、以下のように引用してください。"
+message: "Si utiliza este conjunto de datos, por favor cítelo como se indica a continuación."
 type: software
-title: "NCRA Open Science Ecosystem — research-hub-ja"
-abstract: "NCRA Open Science Ecosystem — research-hub-ja"
+title: "Ecosistema de Ciencia Abierta NCRA — research-hub-es"
+abstract: "Ecosistema de Ciencia Abierta NCRA — research-hub-es"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
     email: "juanmoises.delaserna@unir.net"
-repository-code: "https://github.com/juanmoisesd/research-hub-ja"
-url: "https://juanmoisesd.github.io/research-hub-ja/"
+repository-code: "https://github.com/juanmoisesd/research-hub-es"
+url: "https://juanmoisesd.github.io/research-hub-es/"
 keywords:
-  - open-data
-  - dataset
+  - datos-abiertos
+  - conjunto-de-datos
   - cc0
 license: CC-BY-4.0
 version: "1.0.0"
@@ -21,11 +21,11 @@ date-released: "2026-03-22"
 doi: "10.5281/zenodo.18984813"
 references:
   - type: dataset
-    title: "Open Research Collection — Juan Moisés de la Serna Tuya"
+    title: "Colección de Investigación Abierta — Juan Moisés de la Serna Tuya"
     doi: "10.5281/zenodo.19145316"
     url: "https://doi.org/10.5281/zenodo.18984813"
     authors:
       - family-names: "De la Serna Tuya"
         given-names: "Juan Moisés"
         orcid: "https://orcid.org/0000-0002-8401-8018"
-    notes: "Master collection of 1273+ open research datasets"
+    notes: "Colección maestra de más de 1273 conjuntos de datos de investigación abierta"
